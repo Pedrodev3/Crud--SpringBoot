@@ -1,4 +1,4 @@
-
+![GitHub repo size](https://img.shields.io/github/repo-size/Pedrodev3/Crud--SpringBoot) ![GitHub last commit](https://img.shields.io/github/last-commit/Pedrodev3/Crud--SpringBoot) ![npm](https://img.shields.io/npm/v/npm) ![GitHub language count](https://img.shields.io/github/languages/count/Pedrodev3/Crud--SpringBoot) ![GitHub top language](https://img.shields.io/github/languages/top/Pedrodev3/Crud--SpringBoot)
 
 # Crud--SpringBoot
 CRUD feito com Spring Boot utilizando da linguagem Kotlin
