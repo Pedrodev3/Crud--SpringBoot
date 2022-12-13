@@ -9,5 +9,4 @@ import org.springframework.stereotype.Repository
  * no caso o Id do tipo Long.
  * */
 @Repository
-interface ContactRepository: JpaRepository<ContactEntity, Long> {
-}
+interface ContactRepository: JpaRepository<ContactEntity, Long>
